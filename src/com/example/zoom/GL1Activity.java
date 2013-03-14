@@ -66,7 +66,7 @@ public class GL1Activity extends Activity implements OnTouchListener {
 		gl.glClearColor(.1f, .1f, .1f, 1); //painting background
 		gl.glClearDepthf(1f);	
 		}
-
+//test
 		@Override
 		public void onDrawFrame(GL10 gl) {
 			// TODO Auto-generated method stub
